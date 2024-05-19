@@ -36,7 +36,7 @@ if selected == "Home":
     st.markdown("## :violet[Domain] : Social Media")
     st.markdown("## :violet[Skills take away From This Project] : Python scripting, Data Collection, Streamlit, API integration, Data Management using SQL")
     st.markdown("## :violet[Overall view] : Building a simple UI with Streamlit, retrieving data from YouTube API, storing the date SQL as a WH, querying the data warehouse with SQL, and displaying the data in the Streamlit app.")
-    st.markdown("## :violet[Developed by] : Revathi Karthikeyan")
+    st.markdown("## :violet[Developed by] : Vinitha velu")
 
     
 # Data Zone
